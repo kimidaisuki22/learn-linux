@@ -68,3 +68,7 @@ __DELIMITER
 __DELIMITER
 ```
 will output @content@, if you use <<- instead of <<, '\t' will be ignore at the head of line.
+
+## Alias
+
+alias l='ls -al'
