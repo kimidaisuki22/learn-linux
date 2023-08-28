@@ -1,13 +1,25 @@
 {
     "cSpell.words": [
+        "bmon",
         "chage",
         "chgrp",
         "chsh",
+        "cifs",
         "crypttab",
+        "ethstats",
+        "ifrename",
+        "iftop",
         "journalctl",
         "kbits",
         "lpadmin",
+        "maddr",
+        "mdns",
         "mkfifo",
+        "netatalk",
+        "netcat",
+        "proftpd",
+        "resolv",
+        "smbclient",
         "Tmpfs",
         "urandom"
     ]
